@@ -1,3 +1,6 @@
 # yunzai_lsp
 
-# 本人摸鱼时写的脚本。
+```
+git clone --depth=1 https://github.com/zwj-tq/yunzai_lsp.git ./plugins/example/
+```
+
